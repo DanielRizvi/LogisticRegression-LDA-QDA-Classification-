@@ -8,4 +8,4 @@ The results show that all three models performed well. The ROC curve for each mo
 
 In conclusion, this project demonstrated the use of three different algorithms for classification, and showed that they are all effective at classifying mushrooms as poisonous or edible based on their attributes. The logistic regression model was found to be the most accurate, but all three models are useful for this task.
 
-Special thanks to Marco Peixeiro motivating & guiding me in the project. 
+Special thanks to Marco Peixeiro for motivating & guiding me in the project. 
